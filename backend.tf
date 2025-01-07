@@ -4,7 +4,7 @@ terraform {
     organization = "tykkiposse" 
 
     workspaces { 
-      name = "fem-eci-workspace" 
+      name = "fem-eci-tfe" 
     } 
   } 
 }
